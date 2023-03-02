@@ -1,4 +1,4 @@
-# PowerBI-Project
+# Churn Analysis using PowerBI
 Bank Churn Analysis
 I am excited to share the dashboard and the report that I have built using Power BI.
 
